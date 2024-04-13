@@ -1,4 +1,4 @@
-![logo](/media/laustincode-logo-lg.png)
+![logo](/media/laustincode-logo.png)
 
 # laustincode YouTube source code
 
